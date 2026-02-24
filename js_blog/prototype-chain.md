@@ -5,4 +5,4 @@
      After creating the instance , instance have prot object that refrence to parent prototype. that is called prototype chain 
      function A (name){
         this.sayhii = 
-     }
+     } 
